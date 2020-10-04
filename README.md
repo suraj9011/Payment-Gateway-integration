@@ -1,2 +1,2 @@
 # Payment-Gateway-integration
-http://surajrautpaymentgateway.pythonanywhere.com/
+SurajRautPaymentGateway.pythonanywhere.com
