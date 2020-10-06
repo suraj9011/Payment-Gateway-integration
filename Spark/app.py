@@ -35,7 +35,7 @@ def pay():
         buyer_name=name,
         send_email=True,
         email=email,
-        redirect_url="http://localhost:5000/success"
+        redirect_url="http://SurajRautPaymentGateway.pythonanywhere.com/success"
         )
         
         return redirect(response['payment_request']['longurl'])
